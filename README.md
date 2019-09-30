@@ -1,3 +1,3 @@
 # hello-world
 
-Initial project for Guthub
+Initial project for Git hub
